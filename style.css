@@ -1,0 +1,53 @@
+body{
+    text-align: center;
+    font-family:'Itim',cursive;
+    background-color:lightblue;
+    color:hotpink;
+    font-size:20px;
+}
+
+img{
+    width:  20%;
+    height: 30%;
+    border-radius:500;
+}
+
+hr{
+    height: 6px;
+    background-color: #FAFAFA;
+    width: 200px;
+    margin: 8px auto;
+}
+
+h1{
+    text-shadow: 2px 3px black;
+}
+
+p{
+    text-shadow: 2px 1px black;
+}
+
+.menu{
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: white;
+    z-index: 10px;
+}
+.links{
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top:10px;
+    right: 30px;
+    cursor: pointer;
+    color: aliceblue;
+    z-index:10px;
+}
+
+{
+    text-decoration: underline;
+}
